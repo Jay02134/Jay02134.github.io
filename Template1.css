@@ -1,0 +1,112 @@
+.body {
+  background-image: url("CS.jpeg");
+  background-repeat: no-repeat;
+  Background-position: center top;
+  Background-size: cover;
+}
+
+ul {
+  position: fixed;
+  Background-color: black;
+  list-style-type: none;
+  Width: 100%;
+  Margin-left: -10px;
+  Margin-top: -15px;
+  padding: 15px;
+}
+
+.li {
+  display: inline;
+  Color: White;
+  Font-size: 35px;
+  margin-right: 30px;
+  Font-family: Papyrus;
+}
+
+.P {
+  Margin-left: 50%;
+  Margin-bottom: 50%;
+  position: static;
+  bottom: -100%;
+  Color: white;
+  Font-size: 30px;
+  Font-family: "Courier New";
+  Background-color: hsl(0, 0%, 0%, 0.8);
+  Padding: 10px;
+  Padding-top: 150px;
+}
+
+Footer {
+  Color: white;
+  Font-size: 10px;
+  Background-color: black;
+  Padding: 20px;
+  Text-align: center;
+  Bottom: 50%;
+}
+
+.body2 {
+  Background-color: #FFFFF0;
+}
+
+.table {
+  position: fixed;
+  Top: 160px;
+  font-family: papyrus;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+ol {
+  position: fixed;
+  Top: 165px;
+
+}
+
+.li2 {
+  Font-size: 20px;
+}
+
+.form {
+  position: fixed;
+  Top: 165px;
+  Font-size: 30px;
+}
+
+.body3 {
+  Background-color: #FFFFF0;
+  background-image: url("CS2.jpeg");
+  background-repeat: no-repeat;
+  Background-position: center top;
+  Background-size: cover;
+}
+
+.P2 {
+  Text-align: center;
+  position: fixed;
+  Top: 165px;
+  Color: white;
+  Font-size: 40px;
+  Font-family: "Courier New";
+  Background-color: hsl(0, 0%, 0%, 0.8);
+  Padding: 10px;
+}
+
+.button {
+  Top: 500px;
+  Right: 50%;
+  position: fixed;
+  border: none;
+  color: white;
+  padding: 15px;
+  text-align: center;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+}
